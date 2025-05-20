@@ -61,6 +61,3 @@ Enter your Guess:
 ```
 
 ---
-
-**Author:**  
-[First year/b23me1017.c](First%20year/b23me1017.c)
